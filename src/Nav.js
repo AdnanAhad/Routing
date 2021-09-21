@@ -10,7 +10,7 @@ function Nav() {
   return (
     <nav>
       <Link style={navStyle} to="/home">
-        <h3>Amazon Logo</h3>
+        <h3>Logo</h3>
       </Link>\
       <ul clas
         sName="nav-links">
