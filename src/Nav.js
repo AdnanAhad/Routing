@@ -15,7 +15,7 @@ function Nav() {
       <ul clas
         sName="nav-links">
         <Link style={navStyle} to="/about">
-          <li>Home</li>
+          <li>About</li>
         </Link>
 
         <Link style={navStyle} to="/shop">
